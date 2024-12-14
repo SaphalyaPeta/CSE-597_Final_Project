@@ -2,6 +2,6 @@
 
 [https://arxiv.org/abs/2205.12005](https://arxiv.org/abs/2205.12005)
                             
-# Image Captioning: 
+# Image Captioning 
 
-# Visual Grounding:
+# Visual Grounding
